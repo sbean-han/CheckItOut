@@ -1,0 +1,3 @@
+[submodule "bandopenapi"]
+	path = bandopenapi
+	url = https://github.com/sbean-han/bandopenapi.git
